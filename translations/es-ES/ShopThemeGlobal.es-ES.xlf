@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/fastuser/data/www/masterant01.anvanto.com/lib" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="a0bfe0853cf82bdf5dcb9b0bac76c357">
+        <source>Email us:</source>
+        <target>Un correo electronico:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3aea774cdcd8f2c45549f10758a71323">
+        <source>Store information</source>
+        <target>Almacenar información</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contáctenos</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ffb7e666a70151215b4c55c6268d7d72">
+        <source>Newsletter</source>
+        <target>Hoja informativa</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Añadir a la Bolsa</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9ae79c1fccd231ac7fbbf3235dbf6326">
+        <source>My wishlist</source>
+        <target>Mi lista de deseos</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
