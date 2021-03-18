@@ -78,14 +78,13 @@
           {if (Module::isEnabled('an_theme') and (Module::getInstanceByName('an_theme')->getParam('header_typeHeader') == 'header4'))}
           <div class="div_top_left container">
           {/if}
-          <div class="col-md-6 left-col"></div>
           {hook h='displayTopLeft'}
           {if (Module::isEnabled('an_theme') and (Module::getInstanceByName('an_theme')->getParam('header_typeHeader') == 'header4'))}
           </div>
           {/if}
 
           {if (Module::isEnabled('an_theme') and (Module::getInstanceByName('an_theme')->getParam('header_typeHeader') !== 'header4'))}
-          <div class="col-md-6 ml-3 center-col">
+          <div class="col-md-6 center-col">
             <div class="vertical-center">
           {/if} 
               {hook h='displayTop'}

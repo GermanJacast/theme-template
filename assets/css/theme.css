@@ -12479,6 +12479,9 @@ body#checkout #cart-summary-product-list .media-body {
 .hidden {
   display: none;
 }
+.center-col {
+  margin-left: 4%;
+}
 #header #search_widget {
   display: block !important;
   top: -10px;
@@ -12527,6 +12530,7 @@ body#checkout #cart-summary-product-list .media-body {
   .center-col {
     position: static;
     width: 100vw;
+    margin-left: 0;
   }
   #header #search_widget {
     top: 0;
