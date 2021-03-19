@@ -84,7 +84,7 @@
           {/if}
 
           {if (Module::isEnabled('an_theme') and (Module::getInstanceByName('an_theme')->getParam('header_typeHeader') !== 'header4'))}
-          <div class="col-md-6 center-col">
+          <div class="col-md-5 center-col">
             <div class="vertical-center">
           {/if} 
               {hook h='displayTop'}
@@ -96,7 +96,7 @@
 
           {*Se incorpora el iniciar sesion en el nav*}
           {if (Module::isEnabled('an_theme') and (Module::getInstanceByName('an_theme')->getParam('header_typeHeader') !== 'header4'))}
-          <div class="col-md-1 a right-col">
+          <div class="col-md-2 right-col">
           {hook h='displayNav2'}
           </div>
           {/if}
